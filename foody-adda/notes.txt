@@ -1,0 +1,6 @@
+react vite library
+tailwind css styling
+daisyui component
+awesome react component 
+react icon icons
+
